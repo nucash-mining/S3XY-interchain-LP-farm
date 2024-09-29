@@ -1,0 +1,45 @@
+{
+  "name": "s3xy-interchain-dapp",
+  "version": "1.0.0",
+  "description": "S3XY LP farm to earn BITCH3S",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nucash-mining/S3XY-interchain-LP-farm.git"
+  },
+  "keywords": [
+    "interchain",
+    "LP",
+    "farm",
+    "staking"
+  ],
+  "author": "nucash & Abang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nucash-mining/S3XY-interchain-LP-farm/issues"
+  },
+  "homepage": "https://github.com/nucash-mining/S3XY-interchain-LP-farm#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

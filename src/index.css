@@ -1,0 +1,37 @@
+/* Set the body background to black */
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  /* Style for the overall app container */
+  .App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Style for neon pink glowing effect */
+  h1, p, button {
+    color: #ff69b4; /* Neon pink */
+    text-shadow: 0 0 10px #ff69b4, 0 0 20px #ff69b4, 0 0 30px #ff69b4, 0 0 40px #ff69b4;
+  }
+  
+  /* Style for buttons */
+  button {
+    padding: 10px 20px;
+    background-color: transparent;
+    border: 2px solid #ff69b4;
+    border-radius: 5px;
+    color: #ff69b4;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  /* Hover effect for buttons */
+  button:hover {
+    background-color: #ff69b4;
+    color: black;
+  }
+  
